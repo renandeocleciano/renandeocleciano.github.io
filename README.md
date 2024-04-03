@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renandeocleciano&label=Profile%20views&color=0e75b6&style=flat" alt="renandeocleciano" /> </p>
 
-- 🔭 I’m currently working on [My Personal Ideas](https://www.google.com.br)
+- 🔭 I’m currently working on [My Personal Ideas](https://www.linkedin.com/in/dev-renan-tavares/)
 
 - 🌱 I’m currently learning **Flutter, Kubernets and Ruby**
 
-- 📝 I regularly write articles on [https://renandeocleciano.medium.com/](https://renandeocleciano.medium.com/)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/dev-renan-tavares/](https://www.linkedin.com/in/dev-renan-tavares/)
 
 - 💬 Ask me about **trick or treat :)**
 
